@@ -28,5 +28,5 @@ Novum Testamentum iuxta Codex Amiatinus
 | \[SCM\] | SANCTUM |
 | \[SCO\] | SANCTO |
 
-V &rarr; U<br>
-J &rarr; I
+**V &rarr; U**<br>
+**J &rarr; I**
