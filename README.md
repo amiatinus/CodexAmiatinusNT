@@ -36,3 +36,4 @@ In keeping with the uncial of the manuscript, the transcription is fully capital
 - [x] Mark
 - [x] Luke
 - [x] John
+- [x] Acts of the Apostles
